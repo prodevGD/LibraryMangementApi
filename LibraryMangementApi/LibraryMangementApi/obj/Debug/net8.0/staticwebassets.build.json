@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YbGrf8p5UnEiofzzXL8GbpszSgyycmHEdXD7uZ6YZKg=",
+  "Source": "LibraryMangementApi",
+  "BasePath": "_content/LibraryMangementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
